@@ -9,6 +9,8 @@ Key Features:
     Generates detailed HTML reports using TestNG
     Implements Continuous Integration and Continuous Deployment using Git, Jenkins, Docker, Ansible, Selenium, Terraform, and Kubernetes
     Monitors the Kubernetes cluster using Prometheus and visualizes the dashboard using Grafana
+
+
 Endpoints:
     POST /registerDoctor: Register a new doctor (Request Body: JSON)
     PUT /updateDoctor/{doctorRegNo}: Update an existing doctor (Request Body: JSON)
