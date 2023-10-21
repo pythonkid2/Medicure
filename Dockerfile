@@ -1,4 +1,4 @@
-# Use the official OpenJDK 11 image as the base image
+# Use the official OpenJDK 11 image as the base image.
 FROM openjdk:11
 
 # Copy the JAR file from the target directory to the image
